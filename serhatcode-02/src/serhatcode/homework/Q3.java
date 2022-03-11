@@ -1,10 +1,11 @@
 package serhatcode.homework;
 
+
 import java.util.Scanner;
 
 // Kullanıcıdan bir int tipinde tam sayı alınız.
 // Aldığınız sayıya göre oluşturulacak üçgen aşağıdaki gibi olmalıdır. (Sola dayalı ters dik üçgen)
-public class Question3 {
+public class Q3 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
