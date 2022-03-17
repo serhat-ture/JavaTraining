@@ -36,7 +36,8 @@ public class ArrayqQestion2 {
         System.out.println("koltuk C2 alindi : " + movieSeats[2][1]);
 
 
-        System.out.println(Arrays.deepToString(movieSeats));
+
+        System.out.println(Arrays.deepToString(movieSeats).replace("], ", "]\n").replace("[[", "[").replace("]]", "]"));
 
     }
     }
