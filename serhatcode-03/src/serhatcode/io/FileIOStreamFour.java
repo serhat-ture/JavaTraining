@@ -12,7 +12,7 @@ public class FileIOStreamFour {
 		FileInputStream fis =null;
 		FileOutputStream fos = null;
 		try {
-			//yazdýrma
+			//yazdï¿½rma
 			fos = new FileOutputStream(new File("burakduman.txt"));
 			String name = "Burak Duman 13.03.2022";
 			fos.write(name.getBytes());
