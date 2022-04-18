@@ -42,7 +42,7 @@ public class LinkedListSearchIteratationExample {
 		  for(String e : progLangs){
 			  System.out.println(e);
 		  }
-		  // simple for loop
+
 		
 	}
 

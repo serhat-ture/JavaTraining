@@ -71,7 +71,7 @@ public class CreateHashMapExample {
 		for(Map.Entry<String, Integer> entry: numberMapping.entrySet()){
 			System.out.println("key ->" + entry.getKey() + " value->" + entry.getValue());
 		}
-		
+		System.out.println("**********************************");
 		// using iterator
 		Set<Map.Entry<String, Integer>> entries = numberMapping.entrySet();
 		Iterator<Map.Entry<String, Integer>> iterator = entries.iterator();
@@ -79,7 +79,8 @@ public class CreateHashMapExample {
 			Map.Entry<String, Integer> entry = iterator.next();
 			System.out.println("key ->" + entry.getKey() + " value-> " + entry.getValue());
 		}
-		
+		System.out.println("**********************************");
+
 		// hashmap using java 8 forEach
 		numberMapping.forEach((K, V)-> {
 			System.out.println(" K "+ K);
