@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/ArithmeticOperations.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/ArraysIndex.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/Arrayyys.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/BonusForLoop.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/BreakContinue.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/ClassExample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/ComparisonOperators.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/CreatingClass.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/CreatingObject.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/DifferencePrimitiveAndReference.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/DoWhileLoop.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/ForLoop.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/IfStatement.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/LogicalOperator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/Loops.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/MathClass.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/MethodUnderstanding.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/Methodss.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/NamingVariables.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/PackagesAndImportKeyword.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/ReferenceDataTypes.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/ReservedKeywords.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/ScannerClas.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/StringClass.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/SwitchStatement.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/TernaryOperator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/serhatcode/java101/WhileLoop.java" charset="UTF-8" />
     <file url="PROJECT" charset="windows-1252" />
   </component>
 </project>
